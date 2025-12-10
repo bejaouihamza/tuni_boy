@@ -109,3 +109,4 @@ VDD = 5V or 3.3V
 OUT+ / OUT− = speaker
 
 Perfect for retro chiptunes, beeps, and game sound effects.
+![](https://github.com/bejaouihamza/tuni_boy/blob/main/Capture%20d'%C3%A9cran%202025-12-10%20084341.png?raw=true)
